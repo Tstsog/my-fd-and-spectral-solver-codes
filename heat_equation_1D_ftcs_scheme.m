@@ -84,6 +84,5 @@ set(gca,'FontSize',18)
 xlabel('x') % ,'fontsize',16
 ylabel('u(x,1)') % ,'Rotation', 1
 %%%
-
 %return
 end
