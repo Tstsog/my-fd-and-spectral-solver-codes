@@ -7,6 +7,7 @@ Contact: tsog215@gmail.com
 ## Introduction:
 
 The codes use different finite difference schemes and pseudospectral method. 
+
 The code heat_equation_1D_ftcs_scheme.m uses the forward-time central-space scheme.
 The code heat_equation_1D_btcs_scheme.m uses the backward-time central-space scheme.
 The code heat_equation_1D_cn_scheme_example_1.m - heat_equation_1D_cn_scheme_example_4.m use the Crank-Nicolson scheme.
