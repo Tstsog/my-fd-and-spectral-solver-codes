@@ -12,6 +12,8 @@ The code heat_equation_1D_ftcs_scheme.m uses the forward-time central-space sche
 The code heat_equation_1D_btcs_scheme.m uses the backward-time central-space scheme.
 The code heat_equation_1D_cn_scheme_example_1.m - heat_equation_1D_cn_scheme_example_4.m use the Crank-Nicolson scheme.
 
+The codes diffusion_type_1d_btcs_scheme_example_1.m and diffusion_type_1d_btcs_scheme_example_2.m use the backward-time central-space scheme.
+
 The code Poisson_equation_2D_pseudospectral_example_1.m & Poisson_equation_2D_pseudospectral_example_2.m solve Poisson equation with pseudospectral method.
 
 ## Requirement:
